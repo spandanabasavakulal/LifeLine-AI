@@ -140,8 +140,7 @@ Hospital capacity and availability shown in the prototype are demonstration data
 - Improved model validation using larger clinical datasets
 
 ## Author
-Spandana Basava Kulal
-B.Tech – Computer Science and Engineering (AI & ML)
+Spandana Basava Kulal - B.Tech – Computer Science and Engineering (AI & ML)
 
 ## License
 This project is intended for educational and research purposes.
