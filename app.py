@@ -209,7 +209,10 @@ with col2:
 # IBM WATSONX CONFIGURATION
 # ============================================================
 
-API_KEY = os.getenv("IBM_API_KEY")
+try:
+    API_KEY = st.secrets["IBM_API_KEY"]
+except Exception:
+    API_KEY = os.getenv("IBM_API_KEY")
 
 DEPLOYMENT_URL = (
     "https://eu-gb.ml.cloud.ibm.com/"
