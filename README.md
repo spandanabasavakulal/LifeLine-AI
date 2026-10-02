@@ -123,3 +123,26 @@ LifeLine-AI/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+
+Disclaimer
+LifeLine AI is an educational and research prototype intended to demonstrate AI-assisted emergency triage and hospital recommendation.
+It is not a medical diagnosis system and should not be used as a substitute for qualified medical professionals or real emergency services.
+Hospital capacity and availability shown in the prototype are demonstration data and are not real-time information.
+
+Future Improvements
+- Integration with real-time hospital bed availability
+- Real geographic distance and routing
+- Real-time emergency department capacity
+- Ambulance integration
+- Explainable AI for triage predictions
+- Patient history integration
+- Real-time hospital load monitoring
+- Secure healthcare data integration
+- Improved model validation using larger clinical datasets
+
+Author
+Spandana Basava Kulal
+B.Tech – Computer Science and Engineering (AI & ML)
+License
+
+This project is intended for educational and research purposes.
