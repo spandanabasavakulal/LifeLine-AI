@@ -141,6 +141,7 @@ Hospital capacity and availability shown in the prototype are demonstration data
 
 ## Author
 Spandana Basava Kulal
+```text
 B.Tech – Computer Science and Engineering (AI & ML)
 
 ## License
