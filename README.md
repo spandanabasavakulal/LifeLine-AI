@@ -116,7 +116,6 @@ The model uses the following patient features:
 
 ## Project Structure
 
-```text
 LifeLine-AI/
 │
 ├── app.py
